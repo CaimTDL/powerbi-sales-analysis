@@ -1,6 +1,3 @@
-% New Note
-% Tuesday, 14/01 10∶29
-% Notebook: No Notebook
 
 # Power BI Data Analysis Project: Global Sales Insights
 
